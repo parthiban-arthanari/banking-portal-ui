@@ -1,6 +1,6 @@
 export const environment = {
     production: false,
-    apiUrl: 'http://localhost:8080/api',
+    apiUrl: 'http://banking-portal-api-parthi-viral-dev.apps.rm1.0a51.p1.openshiftapps.com:8180/api',
     tokenName :  "authToken",
     origin:'http://localhost:4200' 
   };
